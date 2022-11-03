@@ -1,0 +1,15 @@
+/Users/onurgokce/RiderProjects/SearchAlgorithms/SearchAlgorithms/bin/Debug/net6.0/SearchAlgorithms
+/Users/onurgokce/RiderProjects/SearchAlgorithms/SearchAlgorithms/bin/Debug/net6.0/SearchAlgorithms.deps.json
+/Users/onurgokce/RiderProjects/SearchAlgorithms/SearchAlgorithms/bin/Debug/net6.0/SearchAlgorithms.runtimeconfig.json
+/Users/onurgokce/RiderProjects/SearchAlgorithms/SearchAlgorithms/bin/Debug/net6.0/SearchAlgorithms.dll
+/Users/onurgokce/RiderProjects/SearchAlgorithms/SearchAlgorithms/bin/Debug/net6.0/SearchAlgorithms.pdb
+/Users/onurgokce/RiderProjects/SearchAlgorithms/SearchAlgorithms/obj/Debug/net6.0/SearchAlgorithms.csproj.AssemblyReference.cache
+/Users/onurgokce/RiderProjects/SearchAlgorithms/SearchAlgorithms/obj/Debug/net6.0/SearchAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onurgokce/RiderProjects/SearchAlgorithms/SearchAlgorithms/obj/Debug/net6.0/SearchAlgorithms.AssemblyInfoInputs.cache
+/Users/onurgokce/RiderProjects/SearchAlgorithms/SearchAlgorithms/obj/Debug/net6.0/SearchAlgorithms.AssemblyInfo.cs
+/Users/onurgokce/RiderProjects/SearchAlgorithms/SearchAlgorithms/obj/Debug/net6.0/SearchAlgorithms.csproj.CoreCompileInputs.cache
+/Users/onurgokce/RiderProjects/SearchAlgorithms/SearchAlgorithms/obj/Debug/net6.0/SearchAlgorithms.dll
+/Users/onurgokce/RiderProjects/SearchAlgorithms/SearchAlgorithms/obj/Debug/net6.0/refint/SearchAlgorithms.dll
+/Users/onurgokce/RiderProjects/SearchAlgorithms/SearchAlgorithms/obj/Debug/net6.0/SearchAlgorithms.pdb
+/Users/onurgokce/RiderProjects/SearchAlgorithms/SearchAlgorithms/obj/Debug/net6.0/SearchAlgorithms.genruntimeconfig.cache
+/Users/onurgokce/RiderProjects/SearchAlgorithms/SearchAlgorithms/obj/Debug/net6.0/ref/SearchAlgorithms.dll
